@@ -8,6 +8,8 @@ PyGlyph is a Python-based 3D ASCII renderer capable of visualizing `.obj` models
 
 ![Date Uploaded](https://img.shields.io/badge/Date%20Uploaded-April%206,%202025-orange)
 ![Downloads](https://img.shields.io/badge/Downloads-0-blue)
+![Commits](https://img.shields.io/github/commit-activity/m/rseiber/PyGlyph)
+
 
 ## Features :rocket:
 
