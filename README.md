@@ -35,7 +35,7 @@ pip install pygame numpy numba
 ## Usage :gear:
 
 :warning: place `model.obj` file in the same folder. If you need to convert your model from `.stl` you can use this website
-<img src="Convert 3D.png" alt="drawing" width="100" />
+[<img src="Convert_3D.png" alt="drawing" width="100" />](https://convert3d.org/stl-to-obj)
 
 ```bash
 python pyglyph.py
