@@ -36,7 +36,7 @@ pip install pygame numpy numba
 
 :warning: Place `model.obj` file in the same folder. If you need to convert your model from `.stl` you can use this website: 
 <a href="https://convert3d.org/stl-to-obj" title="Convert 3D - Click to open" target="_blank" style="vertical-align: middle;">
-    <img src="Convert_3D.png" alt="Convert 3D" width="30" style="margin-left: 5px;"/>
+    <img src="Convert_3D.png" alt="Convert 3D" width="100" style="margin-left: 5px;"/>
 </a> - *(Right-click and open in a new tab)*
 
 
